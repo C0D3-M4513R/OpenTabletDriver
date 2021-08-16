@@ -25,7 +25,7 @@
         "Start": 64,
         "StartInclusive": true,
         "End": 80,
-        "EndInclusive": false
+        "EndInclusive": true
       },
       "VendorID": 1386,
       "ProductID": 101,
@@ -44,7 +44,7 @@
         "Start": 64,
         "StartInclusive": true,
         "End": 80,
-        "EndInclusive": false
+        "EndInclusive": true
       },
       "VendorID": 1386,
       "ProductID": 101,
